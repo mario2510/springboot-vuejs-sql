@@ -7,4 +7,5 @@ mysql(banco)
 intellij idea 2020,
 maven,
 javascript,
-etc..
+frontend
+etc...
